@@ -18,3 +18,4 @@
 "H2SO4 + 2NaOH = Na2SO4 + 2H2O": {'H2SO4': -1, 'NaOH': -2, 'Na2SO4': 1, 'H2O': 2},
 "H2SO4 + Ca(OH)2 = CaSO4 + 2H2O": {'H2SO4': -1, 'Ca': -1, 'CaSO4': 1, 'H2O': 2},
 "H2SO4 + 2NaOH = Na2SO4 + 2H2O": {'H2SO4': -1, 'NaOH': -2, 'Na2SO4': 1, 'H2O': 2},
+"H2SO4 + 2NaOH = Na2SO4 + 2H2O": {'H2SO4': -1, 'NaOH': -2, 'Na2SO4': 1, 'H2O': 2},
